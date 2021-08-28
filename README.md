@@ -1,2 +1,2 @@
 # AR
-I'm here to learn share skills 
+I'm here to learn and share skills 
